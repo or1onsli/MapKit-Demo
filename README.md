@@ -10,4 +10,4 @@ This is a simple exercise with MapKit and CoreData in **Swift 3**/**Xcode 8.3.3*
 
 This sample app records and stores journeys making them available for consultation at a latter time. It uses **CoreData** for the storage of the journeys' informations, **MapKit** for the journeys' tracking and **UIKit** for the the UI of the app.
 
-**Copyright (c) 2017 Andrea Vultaggio under MIT License**
+**Copyright (c) 2017 Andrea Vultaggio under MIT License.**
